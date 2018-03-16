@@ -1,4 +1,4 @@
-# Direct Downloader
+# Direct Plex Downloader
 # Downloads Media from a plex server
 # Author: NinthWalker
 # https://github.com/ninthwalker/directDownloader
