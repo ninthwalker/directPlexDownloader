@@ -7,9 +7,9 @@ Powershell script to download items from a plex server.
 ## Details
 Can be used on your own server or on a remote friends server as well.  
 Requires knowing a few things about the plex server:  
-1. Plex Token (Either the server owners token, or the token issued to you for accessing a friends server)
-2. Plex Server url:port (can be a known ip, the plex.direct url, or a friendly url )
-3. Metadata ID of the movie/show you want to download.  
+1. [b]Plex Token[/b] (Either the server owners token, or the token issued to you for accessing a friends server)
+2. Plex Server [b]url:port[/b] (can be a known ip, the plex.direct url, or a friendly url )
+3. [b]Metadata ID[/b] of the movie/show you want to download.  
 
 A better method of this would be to make this in python and use the plex-api to search for the name of what you want,  
 rather than needing the metadata ID, but I'll leave that for someone else.  
