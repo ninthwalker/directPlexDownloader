@@ -1,7 +1,5 @@
 
-# Direct Plex Downloader  
-
-## Description
+# Direct Plex Downloader
 Powershell script to download items from a Plex Server.
 
 ## Details
