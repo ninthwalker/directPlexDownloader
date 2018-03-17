@@ -1,7 +1,7 @@
 # Direct Plex Downloader
 # Downloads Media from a plex server
 # Author: NinthWalker
-# https://github.com/ninthwalker/directDownloader
+# https://github.com/ninthwalker/directPlexDownloader
 # Updated: 16MAR2016
 # 
 ######## Variables. Set to the correct values ########
