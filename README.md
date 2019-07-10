@@ -1,6 +1,6 @@
 # Developers Note:  
 This script/repo is no longer maintained.
-Please see the new and improved plex downloader app called [Saverr](https://github.com/ninthwalker/saverr)
+Please see the new and improved plex downloader app called [Saverr](https://github.com/ninthwalker/saverr).  
 Thanks!
   
   
